@@ -3,4 +3,4 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/matias-oqn/)https://www.linkedin.com/in/matias-oqn/]"  /></a>
+<a href="https://www.linkedin.com/in/matias-oqn/)https://www.linkedin.com/in/matias-oqn/"  /></a>
