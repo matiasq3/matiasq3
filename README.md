@@ -2,7 +2,7 @@
 readme.mp
 
 <h1 align="center">Hola 👋, soy Matias Quispe </h1>
-<h3 align="center">Estudiante de IACI en la UNQ y tecnico electronico</h3>
+<h3 align="center">Estudiante de IACI en la UNQ, Técnico universitario en programacion y Técnico electrónico</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
