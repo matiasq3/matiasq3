@@ -1,8 +1,15 @@
 # README.md
 readme.mp
 
-<h1 align="center">Hola 👋, soy Matias Quispe </h1>
+<h1 align="center">Bienvenidos a mi perfil! 👋, soy Matias Quispe </h1>
 <h3 align="center">Estudiante de IACI en la UNQ, Técnico universitario en programacion y Técnico electrónico</h3>
+<h3 
+
+Poseo experiencia y conocimiento mantenimiento industrial, electrónica, hidráulica, neumática y sistemas de automatización. Por otro lado me adentre en el mundo de la programación, estudiando una tecnicatura universitaria en programación y realmente me hizo abrir la mente sobre como se pueden desarrollar multiples aplicaciones, el limite esta en uno mismo.
+
+En ocasiones brindo clases de forma particular de matematica, fisica y electrónica. Además recientemente tomo clases de saxofon 🎷🎶 mi cable a tierra, la musica es otro mundo muy apasionante. 
+
+Me interesan oportunidades laborales dónde pueda seguir creciendo, aprendiendo y explotando mí potencial 🚀.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
